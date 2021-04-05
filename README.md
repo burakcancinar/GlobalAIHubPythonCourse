@@ -12,7 +12,7 @@
 Introduction to Python Programming
 
 ## Requirements
--
+No extra requirements
 ---
 
 ### Certification
